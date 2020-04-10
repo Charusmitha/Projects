@@ -1,4 +1,6 @@
-# MovieFlixDB
+## Apr 2019
+
+# Movie Info Application
 
 >This is a single page movie info web application created using create-react-app. The application uses a backend server that hosts the BUILT(using npm run build) React app as well as provides REST services for various functionalities. The application will be usable by multiple users simultaneously.
 
