@@ -102,13 +102,5 @@ This example shows how the disk backed queue works
 	2.txt = 11 - This will be read and deleted
 	```
 	
-#### References
 
-* Stack Overflow - While using I/O streams, I encountered "invalid type code AC". Checked few stack overflow posts to understand the problem.
-* https://docs.oracle.com/javase/7/docs/api/java/io/*
-
-#### Time taken for implementation
-
-* Coding and Debugging - 20 hours
-* Testing - 4 hours
 
