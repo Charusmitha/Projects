@@ -1,6 +1,6 @@
+## June 2019
 
-
-## Goal:
+# Goal:
 
 - To design a recipe storage and search website 
 - The application will be a multiple-page web application that uses Progressive Enhancement to offer a single-page application version
