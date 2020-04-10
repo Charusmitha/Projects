@@ -1,7 +1,9 @@
 
+## Feb 2019
 
-## Goal:
+## Chat Application:
 
+### Goal:
 To design a web based chat application that will work for multiple users to have usernames, allow logout.
 
 The App has the following features:
