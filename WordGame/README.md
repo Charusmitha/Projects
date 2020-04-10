@@ -1,5 +1,6 @@
+## July 2019
 
-## Goal 
+# Goal 
 
 The application will be a game to guess a word.
 * The server will console.log the current secret word at the start of the game.  The client will never know the secret word until it is guessed.
