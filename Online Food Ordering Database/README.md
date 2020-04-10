@@ -1,6 +1,7 @@
 
+## Dec 2018
 
-## Goal:
+# Goal:
 
 To create a database for online food ordering application.
 
