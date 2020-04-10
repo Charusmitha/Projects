@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif;
+    color: #eee;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background: url("images/sitebg.jpg") no-repeat center fixed;
+    background-size: cover;
+}
+
+.fa-times{
+    position: absolute;
+    right: 2rem;
+    font-size: 4rem;
+    color: #eee;
+}
+
+.project3{
+    text-align: center;
+}
+
+img{
+    width: 20rem;
+    display: inline-block;
+    padding-top: 40px;
+}
+
+.description{
+    display: inline-block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.heading h1{
+    font-size: 25px;
+    padding-top: 25px;
+    background: linear-gradient(to top, #ffe838, #fd57bf);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.intro{
+    font-size: 1.8rem;
+    text-align: initial;
+    opacity: 0.6;
+}
+
+.description h2{
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.description ul{
+    text-align: left;
+    padding-top: 10px;
+}
+
+.description li{
+    padding: 2px;
+    font-size: 1.5rem;
+    opacity: 0.8;
+}
+
+.toolsTechnologies{
+    padding-top: 20px;
+    font-size: 1.8rem;
+    text-align: initial;
+    opacity: 1;
+}
+
+.fa-github-square{
+    color: #eee;
+}
+
+.fa-github-square:hover{
+    color: black;
+}
+
+i{
+    padding-top: 20px;
+    font-size: 5rem;
+    transition: color 650ms;
+}
+
+
