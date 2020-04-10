@@ -1,4 +1,6 @@
-Car Dealership and Inventory Management Project:
+## Dec 2018
+
+# Car Dealership and Inventory Management Project:
 
 * Build user interface for customer/dealer login. 
 * Build user interface for Customers to search dealers  based on DealerID/Location/ZipCode.
